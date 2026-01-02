@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jangwonii
-- 👀 I’m interested in backend
-- 🌱 I’m currently learning spring
+- 👀 I’m interested in AI
+- 🌱 I’m currently learning Langraph
 - 📫 How to reach me email(weun2002@dankook.ac.kr)
 
 <!---
