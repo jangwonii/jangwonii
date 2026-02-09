@@ -7,14 +7,14 @@
 
 ## 🛠 Tech Stack
 
-### 🔍 AI / Computer Vision
+###  AI / Computer Vision
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![YOLO](https://img.shields.io/badge/YOLOv8/YOLO11-000000?style=flat)
 ![MMPose](https://img.shields.io/badge/MMPose-005BAC?style=flat)
 ![TAO Toolkit](https://img.shields.io/badge/NVIDIA%20TAO-76B900?style=flat&logo=nvidia&logoColor=white)
 ![Point Cloud](https://img.shields.io/badge/PointCloud-3D-blue?style=flat)
 
-### 🧠 Domains
+###  Domains
 - Action Recognition (CCTV, 이상행동 탐지)
 - Pose Estimation (2D/3D Skeleton)
 - LiDAR / Point Cloud 3D Object Detection
@@ -43,7 +43,6 @@
 **기술**  
 `PyTorch` · `TAO Toolkit` · `Action Recognition` · `Video AI`
 
-🔗 Repo: https://github.com/your-id/your-action-recognition-repo
 
 ---
 
@@ -60,7 +59,6 @@
 **기술**  
 `LiDAR` · `Point Cloud` · `PointPillars` · `3D Detection`
 
-🔗 Repo: https://github.com/your-id/your-pointpillars-repo
 
 ---
 
@@ -77,7 +75,6 @@
 **기술**  
 `YOLO-Pose` · `MMPose` · `CVAT` · `Pose Estimation`
 
-🔗 Repo: https://github.com/your-id/your-pose-project-repo
 
 ---
 
