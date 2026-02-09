@@ -1,4 +1,4 @@
-# 👋 이장원 | Computer Vision Research Engineer
+# 이장원 | Computer Vision Research Engineer
 
 산업 안전 · 이상행동 감지를 위한 **Computer Vision / 3D Perception AI**를 연구·개발하고 있습니다.  
 실서비스를 고려한 **모델 설계–학습–배포 파이프라인** 구축에 강점이 있습니다.
