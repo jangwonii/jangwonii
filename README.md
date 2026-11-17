@@ -1,15 +1,7 @@
-<p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:2563EB,100:14B8A6&amp;height=110&amp;section=header" alt="" />
-</p>
-
 <h1 align="center">이장원</h1>
 
 <p align="center">AI 도구와 웹 서비스를 만듭니다.</p>
 
-<p align="center">
-  <a href="https://github.com/jangwonii?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Repositories-2563EB?style=flat-square&amp;logo=github&amp;logoColor=white" alt="GitHub 저장소 전체 보기" /></a>
-  <a href="mailto:weun2002@dankook.ac.kr"><img src="https://img.shields.io/badge/Email-Contact-0F766E?style=flat-square" alt="이메일 보내기" /></a>
-</p>
 
 <p align="center">
   <a href="#프로젝트">프로젝트</a> · <a href="#기술-스택">기술 스택</a>
