@@ -9,7 +9,9 @@
 
 ## 프로젝트
 
-[OneQueue MCP](https://github.com/jangwonii/onequeue_mcp) · [SEVEN](https://github.com/jangwonii/onequeue_vi) · [택시팟](https://github.com/jangwonii/mini-app-union-taxi-pot) · [Eye Cursor](https://github.com/jangwonii/eyetracker)
+**팀 프로젝트** · [Union](https://github.com/dku-union) · [Bull & Bear](https://github.com/ricky00-dev/bull-and-bear) · [Conquer Health](https://github.com/Hackathon-AIM/health-conquer-submission)
+
+**내 저장소** · [OneQueue MCP](https://github.com/jangwonii/onequeue_mcp) · [SEVEN](https://github.com/jangwonii/onequeue_vi) · [택시팟](https://github.com/jangwonii/mini-app-union-taxi-pot) · [Eye Cursor](https://github.com/jangwonii/eyetracker)
 
 ## 기술 스택
 
